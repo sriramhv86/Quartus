@@ -1,1 +1,1 @@
-# Contains all the project files related to Quartus-||
+# Contains all the project files related to Quartus-II
