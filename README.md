@@ -1,2 +1,1 @@
-# SDES-in-quartus
-Contains the design files of quartus sdes project
+# Contains all the project files related to Quartus projects
